@@ -129,4 +129,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Built with ❤️ by [Hitesh Rana](https://github.com/hitesh22rana)
+Built with ❤️ (https://github.com/LoM129)
